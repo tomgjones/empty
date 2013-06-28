@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 28 Jun 2013 13:34:42 +0100
+Source: empty
+Binary: empty
+Architecture: source all
+Version: 0.1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: Tom Jones <tom.jones@bccx.com>
+Changed-By: Tom Jones <tom.jones@bccx.com>
+Description: 
+ empty      - Package with nothing in it.
+Changes: 
+ empty (0.1) UNRELEASED; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1: 
+ 33fc555b0f1363f3ab603a1b5044ee50968cf957 1027 empty_0.1.dsc
+ 6065e0b46d874626a98ec842ff1db01b8582f7e9 496 empty_0.1.tar.gz
+ 90fa48ee0da56c263fa2272ed18ce17da275f526 920 empty_0.1_all.deb
+Checksums-Sha256: 
+ 33e036067b64b1b16f74b171f570b2fe66eda3e99d66135f006ddad7dec94e0c 1027 empty_0.1.dsc
+ 6157c80ecec111efefa31d8bde1a93be553c3d26e8b4fb430d4bc7e05c8c176c 496 empty_0.1.tar.gz
+ 0f3e39999f3b16e5422a73e756bb6036bbd041cf07b3c4dca7a22fec2211f8a6 920 empty_0.1_all.deb
+Files: 
+ 5a1e6500d3b09e2b6f94fd6c1baa6716 1027 - optional empty_0.1.dsc
+ 1daeaa99a2dc9ffaa35e1a2cebb6377b 496 - optional empty_0.1.tar.gz
+ 02a5eb86537f1b770656c57fb7fd88de 920 - optional empty_0.1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJRzYM6AAoJEO6wA7R4D2PnlioIAIwW+SDfaoE3bg8qhMEPx2ul
+VDS0/TEDBSs6JmUR1ptysiBTM1bo4AekLpmaPRg8pCEzBi059gVVp891uHZCCM2d
+JJwpt9Cmryny2+DUdxEzOjLS68s/tM9t+g9NHYRU4WWo09Xba5teamPc41ngMjh+
+iHBZ6VcW6JfNwxn787XxQiRnwyhzDFsV5aNaaGrfZatcqxvYPOw0TwIb5KFT1cIc
+KANFRKEajWuBy/xqpG2n5yg0EPnFO0vFBJuUqLfa2UnbWbpHGRIEDIznZVyGQVBz
+CTJMB7VX5/XRetGwgD+40xDGLx94fDYB+txcxxVzmoPxhsBq3C9OJomfLtrEmzk=
+=3QD7
+-----END PGP SIGNATURE-----

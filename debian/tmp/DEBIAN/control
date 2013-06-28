@@ -1,0 +1,7 @@
+Package: empty
+Version: 0.1
+Architecture: all
+Maintainer: Tom Jones <tom.jones@bccx.com>
+Installed-Size: 25
+Priority: optional
+Description: Package with nothing in it.

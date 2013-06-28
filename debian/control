@@ -1,0 +1,11 @@
+Source: empty
+Priority: optional
+Build-Depends: debhelper (>= 7)
+Build-Depends-Indep: perl
+Maintainer: Tom Jones <tom.jones@bccx.com>
+Standards-Version: 3.9.1
+
+Package: empty
+Architecture: all
+Depends: ${misc:Depends}
+Description: Package with nothing in it.
